@@ -1,8 +1,9 @@
-import exercise.ArrayRotation;
+import exercise.RangeAndMatrix;
 
 public class Main {
     public static void main(String[] args) {
-        ArrayRotation arrayRotation = new ArrayRotation();
-        arrayRotation.rotateArray();
+//        ArrayRotation.rotateArray();
+//        OrderStatistics.meanMedianAge();
+        RangeAndMatrix.rangeMatrix();
     }
 }
